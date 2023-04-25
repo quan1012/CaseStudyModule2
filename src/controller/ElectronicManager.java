@@ -87,7 +87,7 @@ public class ElectronicManager {
         return priceElectronicDevice;
     }
 
-    // -----------Thêm phần tử------------------
+    // -----------Thêm sản phẩm------------------
 
     public void addElement(ElectronicDevice electronicDevice) {
         electronicDevices.add(electronicDevice);
